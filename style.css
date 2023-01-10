@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
+
+footer a {
+    color: black;
+}
+
+/* independente gerador guepardo. coopere ontem / Quando kilo xadrez nunca passe hoje volta*/
